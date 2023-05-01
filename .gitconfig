@@ -14,3 +14,4 @@
     helper = cache --timeout=360000000
 [core]
     autocrlf = false
+    
